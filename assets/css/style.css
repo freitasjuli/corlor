@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.contenedorTotal{
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contenedor{
+    display: flex;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 61%;
+}
+.contenedor2{
+    display: flex;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+div{
+    width: 200px;
+    height: 200px;
+}
+.azul{
+    background-color: blue;
+    margin: 10px;
+}
+.rojo{
+    background-color: red;
+    margin: 10px;
+}
+.verde{
+    background-color: green;
+    margin: 10px;
+}
+.amarillo{
+    background-color: yellow;
+    margin: 10px; 
+}
+.teclas{
+    margin: 10px; 
+    border: 1px solid black;
+}
+.teclas2{
+    margin: 10px; 
+    border: 1px solid black;
+}
